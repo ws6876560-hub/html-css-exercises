@@ -1,0 +1,33 @@
+.box {
+    width: 300px;
+    height: 150px;
+    padding: 20px;
+    border: 5px solid black;
+    margin: 20px auto;
+    background-color: lightblue;
+    text-align: center;
+    font-weight: bold;
+}
+p{
+    color: white;
+    text-align: justify;
+    text-decoration: underline;
+    line-height: 1.6;
+    background-color: gray;
+}
+.hero {
+    height: 100vh;
+    width: 100%;
+
+    background-image: url(snowy-trees-winter-road-snow-covered-countryside-woods-3840x2400-3689.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.gradiente p{
+    height: 200px;
+    padding: 20;
+    color: white;
+    background: linear-gradient(90deg, #ff0066, #6600ff);
+    text-align: center;
+}
